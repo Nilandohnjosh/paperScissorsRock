@@ -1,0 +1,1 @@
+This is just a basic paper scissors rock game using HTML, and Javascript for now.
